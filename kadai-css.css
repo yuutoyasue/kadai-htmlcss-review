@@ -6,7 +6,8 @@ header {
 
 #wrapper {
     height: 500px;
-    display: flex;
+    width:1000px;
+    display:flex ;
 }
 
 #main{
